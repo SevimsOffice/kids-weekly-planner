@@ -42,3 +42,7 @@ coverage/
 
 # Expo credentials
 credentials.json
+node_modules/
+.expo/
+.cache/
+dist/
