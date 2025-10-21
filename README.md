@@ -1,5 +1,10 @@
 # Kids Weekly Planner
 
+https://kidsplanner.space/
+
+<img width="800" height="687" alt="image" src="https://github.com/user-attachments/assets/7410c215-27cc-427b-8dfc-1715ae4aeb52" />
+
+
 A simple, offline-first Expo React Native app to help kids plan their week: set daily tasks, check them off, and keep progress saved on the device.
 
 ## Features
